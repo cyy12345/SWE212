@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="D:/SWE212/week1/cmake-build-debug"/>
+				<Option working_dir="D:/SWE212/git-repo/SWE212/week1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="week1">
-				<Option output="D:/SWE212/week1/cmake-build-debug/week1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/SWE212/week1/cmake-build-debug"/>
+				<Option output="D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/week1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SWE212/git-repo/SWE212/week1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="E:/Mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 week1"/>
-					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 week1"/>
+					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="week1/fast">
-				<Option output="D:/SWE212/week1/cmake-build-debug/week1.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="D:/SWE212/week1/cmake-build-debug"/>
+				<Option output="D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/week1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/SWE212/git-repo/SWE212/week1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,37 +53,37 @@
 					<Add directory="E:/Mingw/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 week1/fast"/>
-					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 week1/fast"/>
+					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="D:/SWE212/week1/cmake-build-debug"/>
+				<Option working_dir="D:/SWE212/git-repo/SWE212/week1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="D:/SWE212/week1/cmake-build-debug"/>
+				<Option working_dir="D:/SWE212/git-repo/SWE212/week1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Mingw/mingw32/bin/mingw32-make.exe -f &quot;D:/SWE212/git-repo/SWE212/week1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/SWE212/week1/main.cpp">
+		<Unit filename="D:/SWE212/git-repo/SWE212/week1/main.cpp">
 			<Option target="week1"/>
 		</Unit>
-		<Unit filename="D:/SWE212/week1/CMakeLists.txt">
+		<Unit filename="D:/SWE212/git-repo/SWE212/week1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

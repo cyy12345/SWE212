@@ -1,4 +1,4 @@
-"E:\Clion\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\SWE212\week1
+"E:\Clion\CLion 2019.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\SWE212\git-repo\SWE212\week1
 -- The C compiler identification is GNU 8.1.0
 -- The CXX compiler identification is GNU 8.1.0
 -- Check for working C compiler: E:/Mingw/mingw32/bin/gcc.exe
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/SWE212/week1/cmake-build-debug
+-- Build files have been written to: D:/SWE212/git-repo/SWE212/week1/cmake-build-debug
